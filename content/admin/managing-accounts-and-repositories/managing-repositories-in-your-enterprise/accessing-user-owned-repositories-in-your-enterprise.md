@@ -1,4 +1,5 @@
----
+-badshamastar
+payment  legal support --
 title: Accessing user-owned repositories in your enterprise
 intro: "You can temporarily access a repository owned by a user within your enterprise."
 permissions: Enterprise owners can temporarily access user-owned repositories.
